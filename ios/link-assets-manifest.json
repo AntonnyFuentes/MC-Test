@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/SF-UI-Text-Regular.ttf",
+      "sha1": "7578e93c66794bfa551f336c2d7b384d53d086cb"
+    },
+    {
+      "path": "assets/fonts/SF-UI-Text-Semibold.ttf",
+      "sha1": "c969a08b5893c3c3190fe40704216bf00dd4cca5"
+    },
+    {
+      "path": "assets/fonts/Tiny5-Regular.ttf",
+      "sha1": "efb6866fde05939eb2d94809edf8b5433fd58bdc"
+    },
+    {
+      "path": "assets/fonts/sfuidisplay_bold.ttf",
+      "sha1": "ba1034abfaf9ecfe713087746f35efa9bc9f4d58"
+    },
+    {
+      "path": "assets/fonts/sfuidisplay_heavy.ttf",
+      "sha1": "02a2613bdcb34e24029e3a742a54192cae6a3537"
+    }
+  ]
+}
